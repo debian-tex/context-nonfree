@@ -1,0 +1,16 @@
+Source: context-nonfree
+Section: non-free/tex
+Priority: optional
+Maintainer: Debian TeX maintainers <debian-tex-maint@lists.debian.org>
+Uploaders: Norbert Preining <preining@debian.org>
+Build-Depends: debhelper (>= 5.0.35)
+Build-Depends-Indep: tex-common (>> 0.35)
+Standards-Version: 3.7.2
+
+Package: context-nonfree
+Architecture: all
+Depends: tex-common (>> 0.35), context
+Description: Non-free items from the ConTeXt distribution
+ The ConTeXt distribution contains some files and documentation which
+ are not considered free from Debian perspective. These are mainly 
+ documentation files (where the source is missing), and some fonts.

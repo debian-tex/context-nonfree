@@ -1,0 +1,19 @@
+This package was debianized by Norbert Preining <preining@debian.org> on
+Sun Oct 22 11:53:51 CEST 2006.
+
+The original source was downloaded from
+	http://www.pragma-ade.com/context/current/cont-tmf.zip
+	http://www.pragma-ade.com/context/current/cont-fnt.zip
+	http://www.pragma-ade.com/context/current/cont-ext.zip
+	http://www.pragma-ade.com/context/current/cont-img.zip
+and repacked into a tar.gz.
+
+The files contained in these package are redistributable but not considered
+free according to the DFSG, as the sources of the included PDF files are
+not available, and some fonts are licensed under the CC-plus-ND license.
+
+Debian adaptations for this Package are licensed under the GNU General
+Public License, version 2, and are under Copyright by:
+
+	Norbert Preining <preining@debian.org> (2006)
+
