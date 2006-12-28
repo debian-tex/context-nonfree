@@ -11,6 +11,5 @@ Package: context-nonfree
 Architecture: all
 Depends: tex-common (>> 0.35), context
 Description: Non-free items from the ConTeXt distribution
- The ConTeXt distribution contains some files and documentation which
- are not considered free from Debian perspective. These are mainly 
- documentation files (where the source is missing), and some fonts.
+ The ConTeXt distribution contains some fonts that are
+ not considered free from Debian perspective, which are included here.
