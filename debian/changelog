@@ -1,8 +1,8 @@
-context-nonfree (2007.01.02-2) UNRELEASED; urgency=low
+context-nonfree (2007.01.12-1) unstable; urgency=low
 
-  * UNRELEASED
+  * new upstream release
 
- -- Norbert Preining <preining@debian.org>  Tue,  9 Jan 2007 18:04:54 +0100
+ -- Norbert Preining <preining@debian.org>  Fri, 12 Jan 2007 12:48:12 +0100
 
 context-nonfree (2007.01.02-1) unstable; urgency=low
 
