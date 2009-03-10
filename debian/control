@@ -13,3 +13,4 @@ Depends: tex-common (>> 0.35), context
 Description: Non-free items from the ConTeXt distribution
  The ConTeXt distribution contains some fonts that are
  not considered free from Debian perspective, which are included here.
+ Currently it only contains the Hoekwater "koeieletters" font.
