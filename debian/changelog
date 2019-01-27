@@ -1,9 +1,23 @@
-context-nonfree (2007.03.22-2) unstable; urgency=low
+context-nonfree (2007.03.22-1.1) unstable; urgency=medium
 
-  * add a note to the description that only the koeieletters are 
-    currently in context-nonfree. (Closes: #492932)
+  * Non-maintainer upload.
+  * Rebuild for Debian Buster.
+    + Solves no-strong-digests-in-dsc. (lintian)
+  * debian/control:
+    + Clarify contents in description. (Closes: #492932)
+    + Add binary package dependency on ${misc:Depends}. (lintian)
+    + Declare compliance with debian-policy 4.3.0. (lintian)
+    + Bump debhelper compat to v12. (lintian)
+  * debian/compat: Removed in favour of using debhelper-compat.
+  * debian/source/format: Use "3.0 (quilt)" format. (lintian)
+  * debian/context-nonfree.lintian-overrides: Add override for
+    non-free fonts (license-problem-font-adobe-copyrighted-fragment).
+  * debian/rules:
+    + Update and use debhelper dh syntax.
+    + Move manual install instructions into debian/*.install files.
+    + Use "dh_missing --fail-missing".
 
- -- Norbert Preining <preining@debian.org>  Tue, 10 Mar 2009 12:42:40 +0100
+ -- Boyuan Yang <byang@debian.org>  Sun, 27 Jan 2019 15:42:10 -0500
 
 context-nonfree (2007.03.22-1) unstable; urgency=low
 
