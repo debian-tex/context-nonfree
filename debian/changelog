@@ -3,8 +3,9 @@ context-nonfree (2007.03.22-2) unstable; urgency=medium
   * fix missing registration of files with mktexlsr
   * change my email, adjust vcs fields to github
   * activate map file for updmap
+  * update copyright statement
 
- -- Norbert Preining <norbert@preining.info>  Mon, 28 Jan 2019 08:54:17 +0900
+ -- Norbert Preining <norbert@preining.info>  Mon, 28 Jan 2019 08:57:37 +0900
 
 context-nonfree (2007.03.22-1.1) unstable; urgency=medium
 
