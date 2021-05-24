@@ -4,14 +4,14 @@ Priority: optional
 Maintainer: Debian TeX maintainers <debian-tex-maint@lists.debian.org>
 Uploaders: Norbert Preining <norbert@preining.info>
 Build-Depends: debhelper-compat (= 12)
-Build-Depends-Indep: tex-common (>> 0.35)
+Build-Depends-Indep: tex-common
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/debian-tex/context-nonfree.git
 Vcs-Browser: https://github.com/debian-tex/context-nonfree
 
 Package: context-nonfree
 Architecture: all
-Depends: tex-common (>> 0.35), context, ${misc:Depends}
+Depends: tex-common, context, ${misc:Depends}
 Description: Non-free items from the ConTeXt distribution
  The ConTeXt distribution contains some fonts that are
  not considered free from Debian perspective, which are included here.
