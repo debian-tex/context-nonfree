@@ -1,10 +1,13 @@
 context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
 
+  [ Debian Janitor ]
   * Remove constraints unnecessary since stretch:
     + Build-Depends-Indep: Drop versioned constraint on tex-common.
     + context-nonfree: Drop versioned constraint on tex-common in Depends.
 
- -- Debian Janitor <janitor@jelmer.uk>  Fri, 21 May 2021 12:15:19 -0000
+  * More things.
+
+ -- Hilmar Preuße <hille42@debian.org>  Sat, 20 Sep 2025 00:01:52 +0200
 
 context-nonfree (2007.03.22-2) unstable; urgency=medium
 
