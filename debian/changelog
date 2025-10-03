@@ -5,7 +5,9 @@ context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
     + Build-Depends-Indep: Drop versioned constraint on tex-common.
     + context-nonfree: Drop versioned constraint on tex-common in Depends.
 
-  * More things.
+  * Insert complete license text of CC BY-ND 2.5 (Closes: #1116025).
+  * Lintian:
+    P: context-nonfree source: no-dep5-copyright
 
  -- Hilmar Preuße <hille42@debian.org>  Sat, 20 Sep 2025 00:01:52 +0200
 
