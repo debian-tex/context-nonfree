@@ -1,2 +1,11 @@
 # known non-free files
 license-problem-font-adobe-copyrighted-fragment
+# We are in TeX world.
+font-in-non-font-package [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeieletters-contour.pfb]
+font-in-non-font-package [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeieletters.pfb]
+font-in-non-font-package [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeielogos-contour.pfb]
+font-in-non-font-package [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeielogos.pfb]
+font-outside-font-dir [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeieletters-contour.pfb]
+font-outside-font-dir [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeieletters.pfb]
+font-outside-font-dir [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeielogos-contour.pfb]
+font-outside-font-dir [usr/share/texmf/fonts/type1/hoekwater/koeieletters/koeielogos.pfb]
