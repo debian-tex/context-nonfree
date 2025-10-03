@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian TeX Task Force <debian-tex-maint@lists.debian.org>
 Uploaders: Norbert Preining <norbert@preining.info>,
            Hilmar Preuße <hille42@debian.org>
-Build-Depends: debhelper-compat (= 12)
+Build-Depends: debhelper-compat (= 13)
 Build-Depends-Indep: tex-common
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/debian-tex/context-nonfree.git

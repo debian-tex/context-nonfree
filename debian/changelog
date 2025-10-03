@@ -7,7 +7,8 @@ context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
 
   * Insert complete license text of CC BY-ND 2.5 (Closes: #1116025).
   * Lintian:
-    P: context-nonfree source: no-dep5-copyright
+    - P: source: no-dep5-copyright
+    - P: source: package-uses-old-debhelper-compat-version
 
  -- Hilmar Preuße <hille42@debian.org>  Sat, 20 Sep 2025 00:01:52 +0200
 
