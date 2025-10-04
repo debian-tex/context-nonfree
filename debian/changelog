@@ -9,6 +9,7 @@ context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
   * Lintian:
     - P: source: no-dep5-copyright
     - P: source: package-uses-old-debhelper-compat-version
+    - P: repeated-path-segment doc
     - Override: font-in-non-font-package, font-outside-font-dir \
       debian-watch-file-is-missing
 
