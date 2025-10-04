@@ -1,4 +1,4 @@
-context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
+context-nonfree (2007.03.22-3) unstable; urgency=medium
 
   [ Debian Janitor ]
   * Remove constraints unnecessary since stretch:
@@ -12,8 +12,9 @@ context-nonfree (2007.03.22-3) UNRELEASED; urgency=medium
     - P: repeated-path-segment doc
     - Override: font-in-non-font-package, font-outside-font-dir \
       debian-watch-file-is-missing
+    - bump Standards-Version; no changes needed.
 
- -- Hilmar Preuße <hille42@debian.org>  Sat, 20 Sep 2025 00:01:52 +0200
+ -- Hilmar Preuße <hille42@debian.org>  Sat, 04 Oct 2025 12:15:45 +0200
 
 context-nonfree (2007.03.22-2) unstable; urgency=medium
 

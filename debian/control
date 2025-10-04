@@ -6,7 +6,7 @@ Uploaders: Norbert Preining <norbert@preining.info>,
            Hilmar Preuße <hille42@debian.org>
 Build-Depends: debhelper-compat (= 13)
 Build-Depends-Indep: tex-common
-Standards-Version: 4.3.0
+Standards-Version: 4.7.2
 Homepage: https://www.pragma-ade.nl/
 Vcs-Git: https://github.com/debian-tex/context-nonfree.git
 Vcs-Browser: https://github.com/debian-tex/context-nonfree
